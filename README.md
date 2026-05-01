@@ -25,10 +25,10 @@
    | Key | Value |
    |---|---|
    | `BOT_TOKEN` | Your `@BotFather` token |
-   | `OWNER_ID` | `7728424218` |
-   | `REQUIRED_CHANNEL` | `@YoriFederation` |
+   | `OWNER_ID` | `12345678` |
+   | `REQUIRED_CHANNEL` | `@channel_username` |
    | `POSTGRES_URL` | Neon connection string |
-   | `BOT_USERNAME` | Your bot's `@username` |
+   | `BOT_USERNAME` | Your bot's `@username without @` |
 
 3. **Set Webhook**  
    After deploy, run once in browser:
